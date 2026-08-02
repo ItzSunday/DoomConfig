@@ -135,7 +135,8 @@
           "extruder",
           "fan",
           "heater_fan hotend_fan",
-          "fan_generic MCU"
+          "fan_generic MCU",
+          "fan_generic Pi"
         ],
         "last_snapshot": {
           "fans": [
@@ -162,7 +163,9 @@
           ],
           "timestamp": "2026-08-02T09:03:26Z"
         },
-        "optional": []
+        "optional": [
+          "neopixel sb_leds"
+        ]
       },
       "heaters": {
         "bed": "heater_bed",
