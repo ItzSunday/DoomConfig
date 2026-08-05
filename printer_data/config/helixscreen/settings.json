@@ -82,6 +82,15 @@
         "temp_bucket": 2,
         "timestamp": 1785124267,
         "total": 330
+      },
+      {
+        "phases": {
+          "2": 190,
+          "7": 115
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785903610,
+        "total": 361
       }
     ]
   },
@@ -122,7 +131,7 @@
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 55.712005615234375,
+          "remaining_weight_g": 46.1287841796875,
           "spool_name": "",
           "spoolman_id": 0,
           "total_weight_g": 1000.0
@@ -525,7 +534,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.6390627026557922
+        "heat_rate": 0.5632104277610779
       }
     }
   },
