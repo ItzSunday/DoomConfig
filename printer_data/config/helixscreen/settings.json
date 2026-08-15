@@ -91,6 +91,15 @@
         "temp_bucket": 2,
         "timestamp": 1785903610,
         "total": 361
+      },
+      {
+        "phases": {
+          "2": 74,
+          "7": 264
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786829672,
+        "total": 338
       }
     ]
   },
@@ -131,7 +140,7 @@
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 46.1287841796875,
+          "remaining_weight_g": 36.60309982299805,
           "spool_name": "",
           "spoolman_id": 0,
           "total_weight_g": 1000.0
