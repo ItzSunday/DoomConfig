@@ -197,7 +197,7 @@
             "temperature_sensor Frame",
             "temperature_sensor EBB_NTC"
           ],
-          "timestamp": "2026-08-03T20:01:50Z"
+          "timestamp": "2026-09-14T16:22:03Z"
         },
         "optional": [
           "neopixel sb_leds"
